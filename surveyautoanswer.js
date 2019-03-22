@@ -14,5 +14,5 @@ $(function(){
 			}
 		};
 		$('#Comments').html('Subscribe to PewDiePie!').attr('value', 'Subscribe to PewDiePie!');
-	}
+	};
 };
