@@ -1,5 +1,5 @@
 
-$function(){
+$(function(){
 	function CIT(){
 		var num;
 		var i;
