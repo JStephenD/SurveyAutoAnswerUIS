@@ -18,4 +18,7 @@ $(function(){
 	$('div .table-header').on('click', function(){
 		CIT();
 	});
+	$('div .widget-header').on('click', function(){
+		CIT();
+	});
 });
