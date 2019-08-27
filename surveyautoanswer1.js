@@ -22,4 +22,9 @@ $(function(){
 	$('div .widget-header').on('click', function(){
 		CIT();
 	});
+	$('input').on({
+		'click', function(){
+			console.log('clicked').
+		},
+	});
 });
