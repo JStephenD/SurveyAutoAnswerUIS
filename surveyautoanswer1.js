@@ -1,5 +1,6 @@
 
 $(function(){
+	console.log('hello world');
 	function CIT(){
 		var num;
 		var i;
