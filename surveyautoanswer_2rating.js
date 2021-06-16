@@ -5,7 +5,7 @@ $(function(){
 		var i;
 		var lim = 0;
 		for (i = 0; i < $('.btn-group').length; i++){
-			num = 1;
+			num = 2;
 			$('.btn-group:eq(' + i +')').find('input[value="' + num + '"]').attr('checked', true);
 		};
 	};
